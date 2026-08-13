@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B1220&height=115&section=header&animation=twinkling&reversal=true" alt="Animated dark cobalt wave" />
-</p>
-
 <table>
   <tr>
     <td width="34%" valign="middle">
